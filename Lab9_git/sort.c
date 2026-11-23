@@ -1,3 +1,4 @@
+//функция сортировки
 #include <stdio.h>
 #include <stdlib.h>
 
