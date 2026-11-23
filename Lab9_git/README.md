@@ -31,6 +31,6 @@
 ![alt text](image-12.png)
 ![alt text](image-13.png)
 11. Добавим в stage и закоммитим последнее изменение:
-
-
-
+![alt text](image-14.png)
+12. Запушим всё в наш репозиторий:
+![alt text](image-15.png)
